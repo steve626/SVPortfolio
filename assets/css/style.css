@@ -37,7 +37,6 @@ body{
 }
 
 .navbar {
-  background-color: whitesmoke;
   color: black;
   text-decoration-style: bold;
 }
@@ -62,4 +61,8 @@ p.cat1, .contact{
 
 .card-body2 {
   margin-left: 18px;
+}
+
+th {
+  text-decoration: underline;
 }
